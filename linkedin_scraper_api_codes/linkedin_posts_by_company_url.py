@@ -119,7 +119,7 @@ class LinkedInPostsCollector:
         return datetime.now().strftime("%H:%M:%S")
 
 def main() -> None:
-    api_token = os.getenv("API_TOKEN")
+    api_token = "<YOUR_API_TOKEN>"
     if not api_token:
         logging.error("API token not found. Please set the API_TOKEN environment variable.")
         return
