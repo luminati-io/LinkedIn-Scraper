@@ -54,7 +54,7 @@ Let's get you up and running in minutes:
 
 #### Prerequisites
 - Python 3.9 or newer
-- Required packages listed in [requirements.txt](https://github.com/triposat/LinkedIn-Scraper/blob/main/requirements.txt)
+- Required packages listed in [requirements.txt](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/requirements.txt)
 
 #### Installation
 Three simple steps to get started:
@@ -176,7 +176,7 @@ Extract detailed data about companies using their LinkedIn URLs.
 }
 ```
 
-👉 Only key fields are shown here. For the full dataset, refer to the [JSON response sample](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_company_info.json).
+👉 Only key fields are shown here. For the full dataset, refer to the [JSON response sample](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_company_info.json).
 
 #### Code Example
 Modify the company URLs in the list to extract data:
@@ -191,7 +191,7 @@ companies = [
 ]
 ```
 
-👉 View [Full Python Code](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_company_info_by_url.py)
+👉 View [Full Python Code](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_company_info_by_url.py)
 
 ### 2. Profile by URL
 Retrieves detailed information from individual LinkedIn profiles.
@@ -226,7 +226,7 @@ Retrieves detailed information from individual LinkedIn profiles.
 }
 ```
 
-👉 Only key fields are shown here. For the full dataset, refer to the [JSON response sample](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/profiles_by_url.json).
+👉 Only key fields are shown here. For the full dataset, refer to the [JSON response sample](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/profiles_by_url.json).
 
 #### Code Example
 Replace the URLs with the LinkedIn profiles you wish to analyze.
@@ -239,7 +239,7 @@ profiles = [
 ]
 ```
 
-👉 View [Full Python Code](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_profile_by_url.py)
+👉 View [Full Python Code](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_profile_by_url.py)
 
 ### 3. Profile Discovery
 Searches for LinkedIn profiles using name-based queries.
@@ -290,7 +290,7 @@ Searches for LinkedIn profiles using name-based queries.
     "url": "https://www.linkedin.com/in/richard-branson-8a38866",
 }
 ```
-👉 View [Full JSON Response Sample](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/profiles_by_name.json)
+👉 View [Full JSON Response Sample](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/profiles_by_name.json)
 
 #### Code Example
 Modify the first and last name fields to find profiles.
@@ -300,7 +300,7 @@ people = [
     {"first_name": "Bill", "last_name": "Gates"},
 ]
 ```
-👉 View [Full Python Code](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_profile_by_name.py)
+👉 View [Full Python Code](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_profile_by_name.py)
 
 ### 4. Posts by URL
 Collects detailed information about specific LinkedIn posts.
@@ -342,7 +342,7 @@ Collects detailed information about specific LinkedIn posts.
 }
 ```
 
-👉 View [Full JSON Response Sample](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_posts_url.json)
+👉 View [Full JSON Response Sample](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_posts_url.json)
 
 #### Code Example
 Replace the URLs with the LinkedIn post links you want to analyze.
@@ -363,7 +363,7 @@ posts = [
     },
 ]
 ```
-👉 View [Full Python Code](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_posts_by_url.py)
+👉 View [Full Python Code](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_posts_by_url.py)
 
 ### 5. Posts Discovery by URL
 Find detailed data on LinkedIn articles authored or interacted with by users.
@@ -408,7 +408,7 @@ Find detailed data on LinkedIn articles authored or interacted with by users.
     ],
 }
 ```
-👉 View [Full JSON Response Sample](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/discovered_posts_by_url.json)
+👉 View [Full JSON Response Sample](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/discovered_posts_by_url.json)
 
 #### Code Example
 Update the `url` and `limit` fields to retrieve articles from specific LinkedIn profiles.
@@ -423,7 +423,7 @@ authors = [
     },
 ]
 ```
-👉 View [Full Python Code](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_posts_discover_by_url.py)
+👉 View [Full Python Code](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_posts_discover_by_url.py)
 
 
 ### 6. Posts Discovery by Profile
@@ -470,7 +470,7 @@ Discover all posts authored or interacted with by a specific LinkedIn profile.
     ],
 }
 ```
-👉 View [Full JSON Response Sample](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/posts_by_profile.json)
+👉 View [Full JSON Response Sample](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/posts_by_profile.json)
 
 #### Code Example
 Modify the profile URLs and date ranges to collect posts from specific LinkedIn profiles.
@@ -492,7 +492,7 @@ profiles = [
     },
 ]
 ```
-👉 View [Full Python Code](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_posts_by_profile_url.py)
+👉 View [Full Python Code](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_posts_by_profile_url.py)
 
 ### 7. Posts Discovery by Company
 Collect posts and updates from company pages.
@@ -532,7 +532,7 @@ Collect posts and updates from company pages.
 }
 ```
 
-👉 View [Full JSON Response Sample](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_posts_company_url.json)
+👉 View [Full JSON Response Sample](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_posts_company_url.json)
 
 #### Code Example
 Customize the company URLs and date ranges to retrieve posts from specific company pages.
@@ -544,7 +544,7 @@ companies = [
 ]
 ```
 
-👉 View [Full Python Code](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_posts_by_company_url.py)
+👉 View [Full Python Code](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_posts_by_company_url.py)
 
 ### 8. Job Listings Collection by URL
 Extract complete information about specific job listings using their URLs.
@@ -592,7 +592,7 @@ Extract complete information about specific job listings using their URLs.
 }
 ```
 
-👉 View [Full JSON Response Sample](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_jobs_url.json)
+👉 View [Full JSON Response Sample](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_jobs_url.json)
 
 #### Code Example
 Update the job URLs to collect information about specific job listings.
@@ -603,7 +603,7 @@ job_searches = [
 ]
 ```
 
-👉 View [Full Python Code](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_jobs_by_url.py)
+👉 View [Full Python Code](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_jobs_by_url.py)
 
 
 ### 9. Job Listings Discovery by Keyword
@@ -678,7 +678,7 @@ Extract job listings using advanced search criteria and filters to find relevant
 }
 ```
 
-👉 View [Full JSON Response Sample](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_jobs_keyword.json)
+👉 View [Full JSON Response Sample](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_jobs_keyword.json)
 
 #### Code Example
 Customize these search criteria to find specific job opportunities across different locations and requirements.
@@ -717,7 +717,7 @@ search_criteria = [
 ]
 ```
 
-👉 View [Full Python Code](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_jobs_by_keyword.py)
+👉 View [Full Python Code](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_jobs_by_keyword.py)
 
 ### 10. Job Listings Discovery by URL
 Extract job listings using direct LinkedIn search URLs
@@ -785,7 +785,7 @@ Extract job listings using direct LinkedIn search URLs
 }
 ```
 
-👉 View [Full JSON Response Sample](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_jobs_search_url.json)
+👉 View [Full JSON Response Sample](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_data/linkedin_jobs_search_url.json)
 
 #### Code Example
 Modify these search URLs to collect job listings from specific companies or search results.
@@ -799,7 +799,7 @@ search_urls[
 ]
 ```
 
-👉 View [Full Python Code](https://github.com/triposat/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_jobs_by_search_url.py)
+👉 View [Full Python Code](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/linkedin_scraper_api_codes/linkedin_jobs_by_search_url.py)
 
 
 ## Data Collection Approaches
