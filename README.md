@@ -33,7 +33,7 @@ This free tool provides two primary functionalities:
 1. **LinkedIn Jobs Scraper**: Collection of job listings with comprehensive metadata
 2. **LinkedIn Profile Validator**: Verification of LinkedIn profile and company URLs
 
-<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin-jobs" src="https://github.com/user-attachments/assets/e89c4af6-a810-4963-9a82-2426e48ec625" />
+<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin-jobs" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin-jobs.png" />
 
 ### 1. Jobs Scraper
 Collects job listings from LinkedIn's job search.
@@ -145,7 +145,7 @@ Before getting started, you'll need:
 ### 1. Company Information Scraper
 Extract detailed data about companies using their LinkedIn URLs.
 
-<img width="797" alt="linkedin-scraper-bright-data-screenshot-linkedin-company-information-by-url" src="https://github.com/user-attachments/assets/463136a4-d769-49cf-80ba-96d488682dfa" />
+<img width="797" alt="linkedin-scraper-bright-data-screenshot-linkedin-company-information-by-url" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin-company-information-by-url.png" />
 
 
 #### Input Parameters
@@ -199,7 +199,7 @@ companies = [
 ### 2. Profile by URL
 Retrieves detailed information from individual LinkedIn profiles.
 
-<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin-people-profiles-by-url" src="https://github.com/user-attachments/assets/73c787ba-2321-4523-af66-a563bc034016" />
+<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin-people-profiles-by-url" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin-people-profiles-by-url.png" />
 
 #### Input Parameters
 | Parameter   | Type   | Required | Description                           |
@@ -247,7 +247,7 @@ profiles = [
 ### 3. Profile Discovery
 Searches for LinkedIn profiles using name-based queries.
 
-<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin-people-profiles-by-name" src="https://github.com/user-attachments/assets/e32d7751-b5eb-42f3-986e-6ac5975ebcb4" />
+<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin-people-profiles-by-name" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin-people-profiles-by-name.png" />
 
 #### Input Parameters
 | Parameter     | Type   | Required | Description                                         |
@@ -308,7 +308,7 @@ people = [
 ### 4. Posts by URL
 Collects detailed information about specific LinkedIn posts.
 
-<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin-posts-by-url" src="https://github.com/user-attachments/assets/08f2ab35-29e7-48f6-bf81-a05e9a1e7bdc" />
+<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin-posts-by-url" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin-posts-by-url.png" />
 
 #### Input Parameters
 | Parameter | Type   | Required | Description              |
@@ -371,7 +371,7 @@ posts = [
 ### 5. Posts Discovery by URL
 Find detailed data on LinkedIn articles authored or interacted with by users.
 
-<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin-posts-discover-by-url" src="https://github.com/user-attachments/assets/5b4b1a5e-3d82-47ad-b78d-b1a8be8a9ceb" />
+<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin-posts-discover-by-url" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin-posts-discover-by-url.png" />
 
 #### Input Parameters
 | Parameter | Type   | Required | Description                     |
@@ -432,7 +432,7 @@ authors = [
 ### 6. Posts Discovery by Profile
 Discover all posts authored or interacted with by a specific LinkedIn profile.
 
-<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin_posts_by_profile_url" src="https://github.com/user-attachments/assets/3c925c73-d729-4755-9c76-47c41b2be68d" />
+<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin_posts_by_profile_url" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin_posts_by_profile_url.png" />
 
 #### Input Parameters
 | Parameter    | Type   | Required | Description                                                             |
@@ -500,7 +500,7 @@ profiles = [
 ### 7. Posts Discovery by Company
 Collect posts and updates from company pages.
 
-<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin_posts_by_company_url" src="https://github.com/user-attachments/assets/1f6aa1b7-943c-48c3-b5a1-15d657f67aed" />
+<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin_posts_by_company_url" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin_posts_by_company_url.png" />
 
 #### Input Parameters
 | Parameter    | Type   | Required | Description                                                             |
@@ -552,7 +552,7 @@ companies = [
 ### 8. Job Listings Collection by URL
 Extract complete information about specific job listings using their URLs.
 
-<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin_jobs_by_url" src="https://github.com/user-attachments/assets/5585e71c-7ef9-45bf-a5ab-49b261ae7c9b" />
+<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin_jobs_by_url" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin_jobs_by_url.png" />
 
 #### Input Parameters
 | Parameter | Type   | Required | Description                  |
@@ -612,7 +612,7 @@ job_searches = [
 ### 9. Job Listings Discovery by Keyword
 Extract job listings using advanced search criteria and filters to find relevant opportunities.
 
-<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin_jobs_by_keyword" src="https://github.com/user-attachments/assets/f0e0e45c-bd84-423b-8a93-ed9b64330a98" />
+<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin_jobs_by_keyword" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin_jobs_by_keyword.png" />
 
 #### Input Parameters
 | Parameter          | Type    | Required | Description                                                                                      |
@@ -725,7 +725,7 @@ search_criteria = [
 ### 10. Job Listings Discovery by URL
 Extract job listings using direct LinkedIn search URLs
 
-<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin_jobs_by_search_url" src="https://github.com/user-attachments/assets/1e899041-b3a2-4122-bea2-64d1011d8199" />
+<img width="700" alt="linkedin-scraper-bright-data-screenshot-linkedin_jobs_by_search_url" src="https://github.com/luminati-io/LinkedIn-Scraper/blob/main/LinkedIn%20Images/linkedin-scraper-bright-data-screenshot-linkedin_jobs_by_search_url.png" />
 
 #### Input Parameters
 | Parameter          | Type    | Required | Description                                                                                       |
