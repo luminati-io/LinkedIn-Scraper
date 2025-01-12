@@ -1,6 +1,7 @@
 # Linkedin Scraper
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/linkedin) 
+
+[![Promo](https://brightdata.com/wp-content/uploads/2025/01/API-promo-GitHub.png)](https://brightdata.com/products/web-scraper/linkedin) 
 
 This repository provides two methods for collecting data from LinkedIn:
 1. **Free**: A great option for small-scale projects, experiments, and learning purposes.
@@ -119,6 +120,8 @@ When collecting data from LinkedIn, you'll encounter various anti-scraping measu
 4. **Technical Challenges**: Additional barriers include handling pagination, dynamic content loading, incomplete data points, and navigating through LinkedIn ads.
 
 While manual web scraping works for small projects, it becomes increasingly challenging at scale. For reliable, efficient, and scalable LinkedIn data collection, **Bright Data** provides a superior solution that saves time and resources while delivering higher-quality results.
+
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/linkedin) 
 
 ## Method 2: Bright Data LinkedIn Scraper API
 For a robust and scalable LinkedIn scraping solution, consider the [Bright Data LinkedIn Scraper API](https://brightdata.com/products/web-scraper/linkedin). Here's why it's worth considering:
