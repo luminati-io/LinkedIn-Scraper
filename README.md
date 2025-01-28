@@ -1,7 +1,6 @@
 # Linkedin Scraper
 
-
-[![Promo](https://brightdata.com/wp-content/uploads/2025/01/API-promo-GitHub.png)](https://brightdata.com/products/web-scraper/linkedin) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/linkedin) 
 
 This repository provides two methods for collecting data from LinkedIn:
 1. **Free**: A great option for small-scale projects, experiments, and learning purposes.
