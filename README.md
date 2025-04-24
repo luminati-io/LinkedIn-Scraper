@@ -6,7 +6,7 @@ This repository provides two methods for collecting data from LinkedIn:
 1. **Free**: A great option for small-scale projects, experiments, and learning purposes.
 2. **LinkedIn Scraper API**: Designed for large-scale, reliable, and real-time data extraction.
 
-Want to skip scraping? [Download a free LinkedIn dataset](https://brightdata.com/products/datasets/linkedin) sample or purchase the full dataset.
+Want to skip scraping? Purchase the full [LinkedIn dataset](https://brightdata.com/products/datasets/linkedin).
 
 ## Table of Contents
 - [Method 1: Free LinkedIn Scraper](#method-1-free-linkedin-scraper)
