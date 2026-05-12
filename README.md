@@ -1,8 +1,3 @@
-[linkedin_scraper_demo.webm](https://github.com/user-attachments/assets/845a8477-0e61-4dbe-a265-c897bf61b976)
-[linkedin_scraper_demo.webm](https://github.com/user-attachments/assets/1d85efac-9e59-443d-bdf1-74ba8cc58f32)
-[linkedin_code_new.webm](https://github.com/user-attachments/assets/a2c64d05-263c-4dfc-a000-c29b7c76915f)
-[linkedin_code_new.webm](https://github.com/user-attachments/assets/2902e849-9a80-44ce-a35c-609ae6789197)
-[linkedin_code_new.webm](https://github.com/user-attachments/assets/82c6cad9-0110-44ec-981c-b277f5c4ad59)
 # Linkedin Scraper
 
 [![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/linkedin) 
