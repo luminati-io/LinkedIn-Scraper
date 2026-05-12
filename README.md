@@ -1,3 +1,6 @@
+[linkedin_code_new.webm](https://github.com/user-attachments/assets/a2c64d05-263c-4dfc-a000-c29b7c76915f)
+[linkedin_code_new.webm](https://github.com/user-attachments/assets/2902e849-9a80-44ce-a35c-609ae6789197)
+[linkedin_code_new.webm](https://github.com/user-attachments/assets/82c6cad9-0110-44ec-981c-b277f5c4ad59)
 # Linkedin Scraper
 
 [![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/linkedin) 
@@ -125,6 +128,9 @@ While manual web scraping works for small projects, it becomes increasingly chal
 [![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/linkedin) 
 
 ## Method 2: Bright Data LinkedIn Scraper API
+
+[linkedin_code_new.webm](https://github.com/user-attachments/assets/5b66c5c2-1b8e-4556-8f77-6b9bb805e4e0)
+
 For a robust and scalable LinkedIn scraping solution, consider the [Bright Data LinkedIn Scraper API](https://brightdata.com/products/web-scraper/linkedin). Here's why it's worth considering:
 
 ### Key Benefits
